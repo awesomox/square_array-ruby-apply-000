@@ -1,6 +1,6 @@
 def square_array(array)
-  array = []
-  array.each { [i] **}
+  arr = []
+  array.each { [i] arr **}
 end
 
 numbers = [1,2,3]
